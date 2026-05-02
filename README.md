@@ -21,7 +21,5 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=diegometring&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegometring&layout=compact&theme=tokyonight" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegometring&show_icons=true&theme=tokyonight)](https://github.com/diegometring)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=diegometring&layout=compact&theme=tokyonight)](https://github.com/diegometring)
