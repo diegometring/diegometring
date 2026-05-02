@@ -21,6 +21,7 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegometring&show_icons=true&theme=tokyonight)](https://github.com/diegometring)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegometring&layout=compact&theme=tokyonight)](https://github.com/diegometring)
+<br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegometring&theme=dracula" height="170" alt="profile details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diegometring&theme=dracula" height="170" alt="languages graph" />
+</br>
